@@ -1,0 +1,10 @@
+body {
+    background-color: darkgreen;
+}
+
+
+div {
+    transform: scale(0.6);
+    display: flex;
+    justify-content: left;
+}
